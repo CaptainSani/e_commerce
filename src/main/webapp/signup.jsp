@@ -126,6 +126,16 @@
             <div class="input-group">
                 <div class="input-group-prepend">
 					<span class="input-group-text">
+						<span class="fa fa-user"></span>
+					</span>
+                </div>
+                <input type="text" class="form-control" name="lastName" placeholder="Last Name" required="required">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-prepend">
+					<span class="input-group-text">
 						<i class="fa fa-paper-plane"></i>
 					</span>
                 </div>
